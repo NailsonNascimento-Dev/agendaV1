@@ -1,0 +1,15 @@
+C:\projetos\agenda\agenda\bin\Debug\net7.0\agenda.exe
+C:\projetos\agenda\agenda\bin\Debug\net7.0\agenda.deps.json
+C:\projetos\agenda\agenda\bin\Debug\net7.0\agenda.runtimeconfig.json
+C:\projetos\agenda\agenda\bin\Debug\net7.0\agenda.dll
+C:\projetos\agenda\agenda\bin\Debug\net7.0\agenda.pdb
+C:\projetos\agenda\agenda\obj\Debug\net7.0\agenda.csproj.AssemblyReference.cache
+C:\projetos\agenda\agenda\obj\Debug\net7.0\agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\agenda\agenda\obj\Debug\net7.0\agenda.AssemblyInfoInputs.cache
+C:\projetos\agenda\agenda\obj\Debug\net7.0\agenda.AssemblyInfo.cs
+C:\projetos\agenda\agenda\obj\Debug\net7.0\agenda.csproj.CoreCompileInputs.cache
+C:\projetos\agenda\agenda\obj\Debug\net7.0\agenda.dll
+C:\projetos\agenda\agenda\obj\Debug\net7.0\refint\agenda.dll
+C:\projetos\agenda\agenda\obj\Debug\net7.0\agenda.pdb
+C:\projetos\agenda\agenda\obj\Debug\net7.0\agenda.genruntimeconfig.cache
+C:\projetos\agenda\agenda\obj\Debug\net7.0\ref\agenda.dll
